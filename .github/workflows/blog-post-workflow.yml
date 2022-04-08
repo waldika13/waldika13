@@ -12,6 +12,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@master
+        uses: waldika13/blog-post-workflow@master
         with:
           feed_list: "https://www.blogger.com/feeds/798578694478916006/posts/default"
