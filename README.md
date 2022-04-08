@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Waldika Irawan</h1>
 <h3 align="center">A passionate Front-End Web Developer, Cyber Security Enthusiast.</h3>
 
-- 🔭 I’m currently learning on [Student Independen Bersertifikat](dicoding.com)
+- 🔭 I’m currently learning on [Dicoding X Kampus Merdeka - Front-End Back-End Developer](dicoding.com) | [Pembangunan Jaya University](upj.ac.id)
 
 - 🌱 I’m currently learning **Everything 🤣**
 
