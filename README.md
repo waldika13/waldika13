@@ -19,4 +19,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Lebih dari 90 Tema, Plugins WordPress AccessPress Disusupi Bakcdoor](https://www.waldikairawan.com/2022/01/93-tema-plugin-accesspress-dihack.html)
+- [Website Sekolah Pintar Dibobol Hacker](https://www.waldikairawan.com/2021/12/website-sekolah-pintar-dibobol-hacker.html)
+- [Carding: Pengertian, Cara Kerja, dan Cara Mencegahnya Lengkap](https://www.waldikairawan.com/2021/11/pengertian-carding.html)
+- [Email Phising menggunakan QR Code Dapat Mencuri Kredensial Microsoft 365](https://www.waldikairawan.com/2021/11/email-phising-menggunakan-qr-code.html)
+- [Hacker Retas Website Polri NTB](https://www.waldikairawan.com/2021/10/website-polri-ntb-diretas.html)
 <!-- BLOG-POST-LIST:END -->
