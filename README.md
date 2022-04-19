@@ -25,3 +25,6 @@
 - [Email Phising menggunakan QR Code Dapat Mencuri Kredensial Microsoft 365](https://www.waldikairawan.com/2021/11/email-phising-menggunakan-qr-code.html)
 - [Hacker Retas Website Polri NTB](https://www.waldikairawan.com/2021/10/website-polri-ntb-diretas.html)
 <!-- BLOG-POST-LIST:END -->
+
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/waldika13?cardType=github&theme=tokyonight)](https://git.io/awesome-stats-card)
