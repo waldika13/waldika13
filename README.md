@@ -27,4 +27,11 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/waldika13?cardType=github&theme=tokyonight)](https://git.io/awesome-stats-card)
+### Analytics ⚙️
+
+<p align="center">
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight">
+      <img  alt="waldika13's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/waldika13?cardType=github&theme=tokyonight" />
+    </a>
+  
+</p>
