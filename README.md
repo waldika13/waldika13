@@ -26,12 +26,3 @@
 - [Hacker Retas Website Polri NTB](https://www.waldikairawan.com/2021/10/website-polri-ntb-diretas.html)
 <!-- BLOG-POST-LIST:END -->
 
-
-### Analytics ⚙️
-
-<p align="center">
-    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight">
-      <img  alt="waldika13's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/waldika13?cardType=github&theme=tokyonight" />
-    </a>
-  
-</p>
