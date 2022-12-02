@@ -18,10 +18,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ancaman Siber Sepak Bola Pada Piala Dunia Qatar 2022](https://www.waldikairawan.com/2022/12/ancaman-siber-sepak-bola-pada-piala.html)
 - [7 Tools Open Source OSINT Untuk Pentest Terbaik 2022](https://www.waldikairawan.com/2022/12/7-tools-open-source-osint-untuk-pentest.html)
 - [Lebih dari 90 Tema, Plugins WordPress AccessPress Disusupi Bakcdoor](https://www.waldikairawan.com/2022/01/93-tema-plugin-accesspress-dihack.html)
 - [Website Sekolah Pintar Dibobol Hacker](https://www.waldikairawan.com/2021/12/website-sekolah-pintar-dibobol-hacker.html)
 - [Carding: Pengertian, Cara Kerja, dan Cara Mencegahnya Lengkap](https://www.waldikairawan.com/2021/11/pengertian-carding.html)
-- [Email Phising menggunakan QR Code Dapat Mencuri Kredensial Microsoft 365](https://www.waldikairawan.com/2021/11/email-phising-menggunakan-qr-code.html)
 <!-- BLOG-POST-LIST:END -->
 
