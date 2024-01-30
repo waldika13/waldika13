@@ -18,10 +18,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Aplikasi iPhone Memanfaatkan Pemberitahuan iOS untuk Mengumpulkan Data Pengguna](https://www.waldikairawan.com/2024/01/iphone-mengumpulkan-data-pengguna.html)
 - [7 Cara Mudah untuk Meningkatkan Keamanan Website WordPress Anda](https://www.waldikairawan.com/2023/03/7-cara-mudah-untuk-meningkatkan-keamanan-web-wordpress.html)
 - [Bug Plugin WooCommerce Wordpress pada 500.000+ Website](https://www.waldikairawan.com/2023/03/bug-plugin-woocommerce-pada-wordpress.html)
 - [Burp Suite: Pengertian dan Fiturnya](https://www.waldikairawan.com/2023/03/pengertian-burp-suite-dan-fiturnya.html)
 - [Web Security: Pengertian dan Tips Meningkatkan Keamanan Website](https://www.waldikairawan.com/2023/03/web-security-pengertian-dan-tips.html)
-- [Ancaman Siber Sepak Bola Pada Piala Dunia Qatar 2022](https://www.waldikairawan.com/2022/12/ancaman-siber-sepak-bola-pada-piala.html)
 <!-- BLOG-POST-LIST:END -->
 
