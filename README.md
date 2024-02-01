@@ -18,10 +18,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kebocoran Data Sepak Bola Australia Berisi Detal Pemain](https://www.waldikairawan.com/2024/02/kebocoran-data-sepak-bola-australia.html)
+- [300 Ribu Lebih Kebocoran Data di Fintech Direct Trading Technology](https://www.waldikairawan.com/2024/02/300-ribu-lebih-kebocoran-data-di-Fintech-Direct-Trading-Technology.html)
 - [Aplikasi iPhone Memanfaatkan Pemberitahuan iOS untuk Mengumpulkan Data Pengguna](https://www.waldikairawan.com/2024/01/iphone-mengumpulkan-data-pengguna.html)
 - [7 Cara Mudah untuk Meningkatkan Keamanan Website WordPress Anda](https://www.waldikairawan.com/2023/03/7-cara-mudah-untuk-meningkatkan-keamanan-web-wordpress.html)
 - [Bug Plugin WooCommerce Wordpress pada 500.000+ Website](https://www.waldikairawan.com/2023/03/bug-plugin-woocommerce-pada-wordpress.html)
-- [Burp Suite: Pengertian dan Fiturnya](https://www.waldikairawan.com/2023/03/pengertian-burp-suite-dan-fiturnya.html)
-- [Web Security: Pengertian dan Tips Meningkatkan Keamanan Website](https://www.waldikairawan.com/2023/03/web-security-pengertian-dan-tips.html)
 <!-- BLOG-POST-LIST:END -->
 
