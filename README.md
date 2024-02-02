@@ -18,10 +18,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2000 Komputer Ukraina Jadi Korban Serangan Malware](https://www.waldikairawan.com/2024/02/2000-komputer-ukraina-jadi-korban-serangan-malware.html)
 - [Kebocoran Data Sepak Bola Australia Berisi Detal Pemain](https://www.waldikairawan.com/2024/02/kebocoran-data-sepak-bola-australia.html)
 - [300 Ribu Lebih Kebocoran Data di Fintech Direct Trading Technology](https://www.waldikairawan.com/2024/02/300-ribu-lebih-kebocoran-data-di-Fintech-Direct-Trading-Technology.html)
 - [Aplikasi iPhone Memanfaatkan Pemberitahuan iOS untuk Mengumpulkan Data Pengguna](https://www.waldikairawan.com/2024/01/iphone-mengumpulkan-data-pengguna.html)
 - [7 Cara Mudah untuk Meningkatkan Keamanan Website WordPress Anda](https://www.waldikairawan.com/2023/03/7-cara-mudah-untuk-meningkatkan-keamanan-web-wordpress.html)
-- [Bug Plugin WooCommerce Wordpress pada 500.000+ Website](https://www.waldikairawan.com/2023/03/bug-plugin-woocommerce-pada-wordpress.html)
 <!-- BLOG-POST-LIST:END -->
 
