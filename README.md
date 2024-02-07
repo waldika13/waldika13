@@ -18,10 +18,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kebocoran Data: Dua Juta Pengguna LectureNotes Terkena Dampak Akibat Misconfigurasi Database](https://www.waldikairawan.com/2024/02/kebocoran-data-dua-juta-pengguna-aplikasi-lecturenotes.html)
 - [Patchwork Menggunakan Tipuan Romance Scam untuk Menyebarkan Malware VajraSpy ke Perangkat Android](https://www.waldikairawan.com/2024/02/patchwork-menyebarkan-malware-varjaspy.html)
 - [Startup Elon Musk Sukses Tanam CjTeknologi Implan Otak Revolusioner](https://www.waldikairawan.com/2024/02/startup-elon-musk-sukses-tanam-chip-ke-otak-manusia.html)
 - [2000 Komputer Ukraina Jadi Korban Serangan Malware](https://www.waldikairawan.com/2024/02/2000-komputer-ukraina-jadi-korban-serangan-malware.html)
 - [Kebocoran Data Sepak Bola Australia Berisi Detal Pemain](https://www.waldikairawan.com/2024/02/kebocoran-data-sepak-bola-australia.html)
-- [300 Ribu Lebih Kebocoran Data di Fintech Direct Trading Technology](https://www.waldikairawan.com/2024/02/300-ribu-lebih-kebocoran-data-di-Fintech-Direct-Trading-Technology.html)
 <!-- BLOG-POST-LIST:END -->
 
