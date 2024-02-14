@@ -18,10 +18,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cara Mencari Subdomain dengan Tool SudoMy](https://www.waldikairawan.com/2024/02/cara-mencari-subdomain-dengan-tool-sudomy.html)
 - [Cara Menemukan Direktori Web Tersembunyi Menggunakan tool Dirsearch](https://www.waldikairawan.com/2024/02/cara-menemukan-direktori-web-dengan-tool-dirsearch.html)
 - [Bahasa Pemrograman Yang Sering Digunakan Hacker](https://www.waldikairawan.com/2024/02/bahasa-pemrograman-yang-sering-digunakan-hacker.html)
 - [Kebocoran Data: Dua Juta Pengguna LectureNotes Terkena Dampak Akibat Misconfigurasi Database](https://www.waldikairawan.com/2024/02/kebocoran-data-dua-juta-pengguna-aplikasi-lecturenotes.html)
 - [Patchwork Menggunakan Tipuan Romance Scam untuk Menyebarkan Malware VajraSpy ke Perangkat Android](https://www.waldikairawan.com/2024/02/patchwork-menyebarkan-malware-varjaspy.html)
-- [Startup Elon Musk Sukses Tanam CjTeknologi Implan Otak Revolusioner](https://www.waldikairawan.com/2024/02/startup-elon-musk-sukses-tanam-chip-ke-otak-manusia.html)
 <!-- BLOG-POST-LIST:END -->
 
