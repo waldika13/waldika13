@@ -18,10 +18,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cara Enumeration Subdomain dengan Cepat menggunakan Sublist3r](https://www.waldikairawan.com/2024/03/cara-enumeration-subdomain-dengan-cepat-menggunakan-Sublist3r.html)
 - [10 Tools Terbaik untuk Mencari Subdomain di Tahun 2024](https://www.waldikairawan.com/2024/03/10-tools-terbaik-untuk-mencari.html)
 - [Cara Mencari Subdomain dengan Tool SudoMy](https://www.waldikairawan.com/2024/02/cara-mencari-subdomain-dengan-tool-sudomy.html)
 - [Cara Menemukan Direktori Web Tersembunyi Menggunakan tool Dirsearch](https://www.waldikairawan.com/2024/02/cara-menemukan-direktori-web-dengan-tool-dirsearch.html)
 - [Bahasa Pemrograman Yang Sering Digunakan Hacker](https://www.waldikairawan.com/2024/02/bahasa-pemrograman-yang-sering-digunakan-hacker.html)
-- [Kebocoran Data: Dua Juta Pengguna LectureNotes Terkena Dampak Akibat Misconfigurasi Database](https://www.waldikairawan.com/2024/02/kebocoran-data-dua-juta-pengguna-aplikasi-lecturenotes.html)
 <!-- BLOG-POST-LIST:END -->
 
