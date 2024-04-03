@@ -18,10 +18,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Zero-day Exploit: Pengertian, Cara Kerja, dan Cara Mencegahnya](https://www.waldikairawan.com/2024/04/zero-day-exploit-pengertian-cara-kerja.html)
 - [Firewall: Pengertian, Jenis, dan Cara Kerjanya](https://www.waldikairawan.com/2024/04/firewall-pengertian-jenis-dan-cara-kerjanya.html)
 - [Cara Enumeration Subdomain dengan Cepat menggunakan Sublist3r](https://www.waldikairawan.com/2024/03/cara-enumeration-subdomain-dengan-cepat-menggunakan-Sublist3r.html)
 - [10 Tools Terbaik untuk Mencari Subdomain di Tahun 2024](https://www.waldikairawan.com/2024/03/10-tools-terbaik-untuk-mencari.html)
 - [Cara Mencari Subdomain dengan Tool SudoMy](https://www.waldikairawan.com/2024/02/cara-mencari-subdomain-dengan-tool-sudomy.html)
-- [Cara Menemukan Direktori Web Tersembunyi Menggunakan tool Dirsearch](https://www.waldikairawan.com/2024/02/cara-menemukan-direktori-web-dengan-tool-dirsearch.html)
 <!-- BLOG-POST-LIST:END -->
 
