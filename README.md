@@ -18,10 +18,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [60,000 websites WordPress Terdampak Bug XSS di plugin WP-Members](https://www.waldikairawan.com/2024/04/60000-websites-wordpress-terdampak-bug-xss.html)
+- [Cross-site scripting &lpar;XSS&rpar;: Pengertian, Contoh, dan Cara Mencegahnya](https://www.waldikairawan.com/2024/04/apa-itu-xss.html)
 - [Apa itu Serangan Brute Force?](https://www.waldikairawan.com/2024/04/apa-itu-serangan-brute-force.html)
 - [1 Juta Website Rentan terhadap Serangan SQL Injection melalui Plugin LayerSlider Wordpress](https://www.waldikairawan.com/2024/04/sql-injection-di-plugin-layerslider.html)
 - [Zero-day Exploit: Pengertian, Cara Kerja, dan Cara Mencegahnya](https://www.waldikairawan.com/2024/04/zero-day-exploit-pengertian-cara-kerja.html)
-- [Firewall: Pengertian, Jenis, dan Cara Kerjanya](https://www.waldikairawan.com/2024/04/firewall-pengertian-jenis-dan-cara-kerjanya.html)
-- [Cara Enumeration Subdomain dengan Cepat menggunakan Sublist3r](https://www.waldikairawan.com/2024/03/cara-enumeration-subdomain-dengan-cepat-menggunakan-Sublist3r.html)
 <!-- BLOG-POST-LIST:END -->
 
