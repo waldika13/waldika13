@@ -18,10 +18,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apa itu Serangan Brute Force?](https://www.waldikairawan.com/2024/04/apa-itu-serangan-brute-force.html)
 - [1 Juta Website Rentan terhadap Serangan SQL Injection melalui Plugin LayerSlider Wordpress](https://www.waldikairawan.com/2024/04/sql-injection-di-plugin-layerslider.html)
 - [Zero-day Exploit: Pengertian, Cara Kerja, dan Cara Mencegahnya](https://www.waldikairawan.com/2024/04/zero-day-exploit-pengertian-cara-kerja.html)
 - [Firewall: Pengertian, Jenis, dan Cara Kerjanya](https://www.waldikairawan.com/2024/04/firewall-pengertian-jenis-dan-cara-kerjanya.html)
 - [Cara Enumeration Subdomain dengan Cepat menggunakan Sublist3r](https://www.waldikairawan.com/2024/03/cara-enumeration-subdomain-dengan-cepat-menggunakan-Sublist3r.html)
-- [10 Tools Terbaik untuk Mencari Subdomain di Tahun 2024](https://www.waldikairawan.com/2024/03/10-tools-terbaik-untuk-mencari.html)
 <!-- BLOG-POST-LIST:END -->
 
