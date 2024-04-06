@@ -18,10 +18,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Remote file inclusion &lpar;RFI&rpar;: Pengertian dan Cara Mencegahnya](https://www.waldikairawan.com/2024/04/apa-itu-remote-file-inclusion-rfi.html)
 - [Local File Inclusion &lpar;LFI&rpar;: Pengertian dan Cara Mencegahnya](https://www.waldikairawan.com/2024/04/local-file-inclusion-lfi.html)
 - [Cross-site request forgery &lpar;CSRF&rpar;: Pengertian dan Cara Mencegahnya](https://www.waldikairawan.com/2024/04/apa-itu-cross-site-request-forgery-csrf.html)
 - [60,000 websites WordPress Terdampak Bug XSS di plugin WP-Members](https://www.waldikairawan.com/2024/04/60000-websites-wordpress-terdampak-bug-xss.html)
 - [Cross-site scripting &lpar;XSS&rpar;: Pengertian, Contoh, dan Cara Mencegahnya](https://www.waldikairawan.com/2024/04/apa-itu-xss.html)
-- [Apa itu Serangan Brute Force?](https://www.waldikairawan.com/2024/04/apa-itu-serangan-brute-force.html)
 <!-- BLOG-POST-LIST:END -->
 
