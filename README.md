@@ -18,10 +18,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Code Injection: Pengertian dan Contohnya](https://www.waldikairawan.com/2024/04/apa-itu-code-injections.html)
 - [Web Shell: Pengertian dan Contohnya](https://www.waldikairawan.com/2024/04/apa-itu-web-shell.html)
 - [DDoS attack: Pengertian dan Cara mencegahnya](https://www.waldikairawan.com/2024/04/ddos-attack-pengertian-dan-cara.html)
 - [Remote file inclusion &lpar;RFI&rpar;: Pengertian dan Cara Mencegahnya](https://www.waldikairawan.com/2024/04/apa-itu-remote-file-inclusion-rfi.html)
 - [Local File Inclusion &lpar;LFI&rpar;: Pengertian dan Cara Mencegahnya](https://www.waldikairawan.com/2024/04/local-file-inclusion-lfi.html)
-- [Cross-site request forgery &lpar;CSRF&rpar;: Pengertian dan Cara Mencegahnya](https://www.waldikairawan.com/2024/04/apa-itu-cross-site-request-forgery-csrf.html)
 <!-- BLOG-POST-LIST:END -->
 
