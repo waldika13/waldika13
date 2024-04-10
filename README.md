@@ -18,10 +18,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Blind SQL Injection: Pengertian dan Contohnya](https://www.waldikairawan.com/2024/04/apa-itu-blind-sql-injection.html)
 - [Path Traversal: Pengertian dan Cara Mencegahnya](https://www.waldikairawan.com/2024/04/apa-itu-path-traversal.html)
 - [Code Injection: Pengertian dan Contohnya](https://www.waldikairawan.com/2024/04/apa-itu-code-injections.html)
 - [Web Shell: Pengertian dan Contohnya](https://www.waldikairawan.com/2024/04/apa-itu-web-shell.html)
 - [DDoS attack: Pengertian dan Cara mencegahnya](https://www.waldikairawan.com/2024/04/ddos-attack-pengertian-dan-cara.html)
-- [Remote file inclusion &lpar;RFI&rpar;: Pengertian dan Cara Mencegahnya](https://www.waldikairawan.com/2024/04/apa-itu-remote-file-inclusion-rfi.html)
 <!-- BLOG-POST-LIST:END -->
 
