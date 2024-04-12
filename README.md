@@ -18,10 +18,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [File upload vulnerabilities: Pengertian dan Cara mencegahnya](https://www.waldikairawan.com/2024/04/apa-itu-file-upload-vulnerabilities.html)
 - [Clickjacking: Pengertian dan Cara Mencegahnya](https://www.waldikairawan.com/2024/04/apa-itu-clickjacking.html)
 - [Blind SQL Injection: Pengertian dan Contohnya](https://www.waldikairawan.com/2024/04/apa-itu-blind-sql-injection.html)
 - [Path Traversal: Pengertian dan Cara Mencegahnya](https://www.waldikairawan.com/2024/04/apa-itu-path-traversal.html)
 - [Code Injection: Pengertian dan Contohnya](https://www.waldikairawan.com/2024/04/apa-itu-code-injections.html)
-- [Web Shell: Pengertian dan Contohnya](https://www.waldikairawan.com/2024/04/apa-itu-web-shell.html)
 <!-- BLOG-POST-LIST:END -->
 
