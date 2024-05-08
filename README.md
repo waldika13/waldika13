@@ -18,10 +18,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [4 Subdomain Website Pemerintah Provinsi Sulawesi di Hack](https://www.waldikairawan.com/2024/05/4-subdomain-website-prov-sulawesi-dihack.html)
 - [90,000 Website WordPress Rentan Terhadap SQL Injection Melalui Plugin](https://www.waldikairawan.com/2024/05/90000-website-wordpres-rentan-hacker.html)
 - [File upload vulnerabilities: Pengertian dan Cara mencegahnya](https://www.waldikairawan.com/2024/04/apa-itu-file-upload-vulnerabilities.html)
 - [Clickjacking: Pengertian dan Cara Mencegahnya](https://www.waldikairawan.com/2024/04/apa-itu-clickjacking.html)
 - [Blind SQL Injection: Pengertian dan Contohnya](https://www.waldikairawan.com/2024/04/apa-itu-blind-sql-injection.html)
-- [Path Traversal: Pengertian dan Cara Mencegahnya](https://www.waldikairawan.com/2024/04/apa-itu-path-traversal.html)
 <!-- BLOG-POST-LIST:END -->
 
