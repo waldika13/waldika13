@@ -18,10 +18,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Remote Code Execution &lpar;RCE&rpar;: Pengertian dan Cara Mencegahnya](https://www.waldikairawan.com/2024/05/apa-itu-remote-code-execution.html)
 - [5 Juta Website WordPress Rentan Terhadap Hacker melalui Plugin LiteSpeed Cache](https://www.waldikairawan.com/2024/05/5-juta-website-wordpress-rentan-terhadap-hacker.html)
 - [4 Subdomain Website Pemerintah Provinsi Sulawesi di Hack](https://www.waldikairawan.com/2024/05/4-subdomain-website-prov-sulawesi-dihack.html)
 - [90,000 Website WordPress Rentan Terhadap SQL Injection Melalui Plugin](https://www.waldikairawan.com/2024/05/90000-website-wordpres-rentan-hacker.html)
 - [File upload vulnerabilities: Pengertian dan Cara mencegahnya](https://www.waldikairawan.com/2024/04/apa-itu-file-upload-vulnerabilities.html)
-- [Clickjacking: Pengertian dan Cara Mencegahnya](https://www.waldikairawan.com/2024/04/apa-itu-clickjacking.html)
 <!-- BLOG-POST-LIST:END -->
 
