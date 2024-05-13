@@ -18,10 +18,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SSH: Pengertian dan Cara Kerjanya](https://www.waldikairawan.com/2024/05/apa-itu-ssh.html)
 - [WPScan: Pengertian dan Cara Menggunakannya](https://www.waldikairawan.com/2024/05/apa-itu-wpscan.html)
 - [Domain Spoofing: Pengertian dan Cara Mencegahnya](https://www.waldikairawan.com/2024/05/apa-itu-domain-spoofing.html)
 - [Remote Code Execution &lpar;RCE&rpar;: Pengertian dan Cara Mencegahnya](https://www.waldikairawan.com/2024/05/apa-itu-remote-code-execution.html)
 - [5 Juta Website WordPress Rentan Terhadap Hacker melalui Plugin LiteSpeed Cache](https://www.waldikairawan.com/2024/05/5-juta-website-wordpress-rentan-terhadap-hacker.html)
-- [4 Subdomain Website Pemerintah Provinsi Sulawesi di Hack](https://www.waldikairawan.com/2024/05/4-subdomain-website-prov-sulawesi-dihack.html)
 <!-- BLOG-POST-LIST:END -->
 
