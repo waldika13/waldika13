@@ -18,10 +18,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apa itu Postman: Pengertian dan Cara Penggunaannya](https://www.waldikairawan.com/2024/05/apa-itu-postman.html)
 - [Apa itu PuTTY: Pengertian dan Fiturnya](https://www.waldikairawan.com/2024/05/apa-itu-putty.html)
 - [Data API Dell Bocor! 49 Juta Data Customers Bocor](https://www.waldikairawan.com/2024/05/data-api-dell-bocor-49-juta-data.html)
 - [SSH: Pengertian dan Cara Kerjanya](https://www.waldikairawan.com/2024/05/apa-itu-ssh.html)
 - [WPScan: Pengertian dan Cara Menggunakannya](https://www.waldikairawan.com/2024/05/apa-itu-wpscan.html)
-- [Domain Spoofing: Pengertian dan Cara Mencegahnya](https://www.waldikairawan.com/2024/05/apa-itu-domain-spoofing.html)
 <!-- BLOG-POST-LIST:END -->
 
