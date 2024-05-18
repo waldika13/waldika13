@@ -18,10 +18,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apa itu REST API: Pengertian dan Contoh Requestnya](https://www.waldikairawan.com/2024/05/apa-itu-rest-api.html)
 - [Apa itu API: Pengertian dan Cara Kerja API](https://www.waldikairawan.com/2024/05/apa-itu-api.html)
 - [Apa itu Postman: Pengertian dan Cara Penggunaannya](https://www.waldikairawan.com/2024/05/apa-itu-postman.html)
 - [Apa itu PuTTY: Pengertian dan Fiturnya](https://www.waldikairawan.com/2024/05/apa-itu-putty.html)
 - [Data API Dell Bocor! 49 Juta Data Customers Bocor](https://www.waldikairawan.com/2024/05/data-api-dell-bocor-49-juta-data.html)
-- [SSH: Pengertian dan Cara Kerjanya](https://www.waldikairawan.com/2024/05/apa-itu-ssh.html)
 <!-- BLOG-POST-LIST:END -->
 
