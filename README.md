@@ -18,10 +18,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apa itu File /etc/passwd: Pengertian dan Contoh Commandnya](https://www.waldikairawan.com/2024/05/apa-itu-file-etc-passwd.html)
 - [Apa itu GraphQL: Pengertian dan Fitur Utama GraphQL](https://www.waldikairawan.com/2024/05/apa-itu-graphq.html)
 - [Apa itu REST API: Pengertian dan Contoh Requestnya](https://www.waldikairawan.com/2024/05/apa-itu-rest-api.html)
 - [Apa itu API: Pengertian dan Cara Kerja API](https://www.waldikairawan.com/2024/05/apa-itu-api.html)
 - [Apa itu Postman: Pengertian dan Cara Penggunaannya](https://www.waldikairawan.com/2024/05/apa-itu-postman.html)
-- [Apa itu PuTTY: Pengertian dan Fiturnya](https://www.waldikairawan.com/2024/05/apa-itu-putty.html)
 <!-- BLOG-POST-LIST:END -->
 
