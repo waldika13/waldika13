@@ -18,10 +18,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apa itu Hashcat: Pengertian dan Cara Menggunakannya](https://www.waldikairawan.com/2024/05/apa-itu-hashcat.html)
 - [Apa itu File /etc/shadow: Pengertian dan Contohnya](https://www.waldikairawan.com/2024/05/apa-itu-file-etcshadow-pengertian-dan.html)
 - [Apa itu File /etc/passwd: Pengertian dan Contoh Commandnya](https://www.waldikairawan.com/2024/05/apa-itu-file-etc-passwd.html)
 - [Apa itu GraphQL: Pengertian dan Fitur Utama GraphQL](https://www.waldikairawan.com/2024/05/apa-itu-graphq.html)
 - [Apa itu REST API: Pengertian dan Contoh Requestnya](https://www.waldikairawan.com/2024/05/apa-itu-rest-api.html)
-- [Apa itu API: Pengertian dan Cara Kerja API](https://www.waldikairawan.com/2024/05/apa-itu-api.html)
 <!-- BLOG-POST-LIST:END -->
 
