@@ -18,10 +18,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apa itu SSRF: Pengertian, Jenis, Dampak, dan Cara Mencegahnya](https://www.waldikairawan.com/2024/05/apa-itu-ssrf-pengertian-jenis-dampak.html)
 - [IDOR: Pengertian, Contoh, dan Cara Mencegahnya](https://www.waldikairawan.com/2024/05/apa-itu-idor.html)
 - [Parameter Tampering: Pengertian, Contoh, dan Cara Mencegahnya](https://www.waldikairawan.com/2024/05/apa-itu-parameter-tampering.html)
 - [Apa itu Kernel: Pengertian dan Jenisnya](https://www.waldikairawan.com/2024/05/apa-itu-kernel.html)
 - [Apa itu Git: Pengertian dan Cara Menggunakannya](https://www.waldikairawan.com/2024/05/apa-itu-git.html)
-- [Cara Mencari Akun Sosmed Menggunakan Sherlock](https://www.waldikairawan.com/2024/05/cara-mencari-akun-sosmed-menggunakan-sherlock.html)
 <!-- BLOG-POST-LIST:END -->
 
