@@ -18,10 +18,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WAF: Pengertian, Jenis, Manfaat WAF](https://www.waldikairawan.com/2024/06/waf-pengertian-jenis-manfaat-waf.html)
 - [JWT Attacks: Pengertian, Dampak, dan Cara Mencegahnya](https://www.waldikairawan.com/2024/05/apa-jwt-attacks-pengertian-dampak-dan-cara-mencegahnya.html)
 - [Apa itu NoSQL Injection: Pengertian, Jenis, dan Cara Mencegahnya](https://www.waldikairawan.com/2024/05/apa-itu-nosql-injection-pengertian.html)
 - [Apa itu XXE Injection: Pengertian, Jenis, dan Cara Mencegahnya](https://www.waldikairawan.com/2024/05/apa-itu-xxe-injection-pengertian-jenis.html)
 - [Apa itu SSRF: Pengertian, Jenis, Dampak, dan Cara Mencegahnya](https://www.waldikairawan.com/2024/05/apa-itu-ssrf-pengertian-jenis-dampak.html)
-- [IDOR: Pengertian, Contoh, dan Cara Mencegahnya](https://www.waldikairawan.com/2024/05/apa-itu-idor.html)
 <!-- BLOG-POST-LIST:END -->
 
