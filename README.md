@@ -18,10 +18,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Race Condition: Pengertian, dan Cara Mencegahnya](https://www.waldikairawan.com/2024/06/race-condition-pengertian-dan-cara.html)
 - [41 Subdomain Provinsi Bandar Lampung Kota di Retas Hacker Pakistan](https://www.waldikairawan.com/2024/06/41-subdomain-provinsi-bandar-lampung-di-hack.html)
 - [Acccount Takeover: Pengertian, Dampak, dan Cara Mencegahnya](https://www.waldikairawan.com/2024/06/acccount-takeover-pengertian-dampak-dan.html)
 - [OAuth 2.0: Pengertian, Sejarah, Cara Kerja, dan Manfaatnya](https://www.waldikairawan.com/2024/06/oauth-20-pengertian-sejarah-cara-kerja.html)
 - [OS Command Injection: Pengertian, Contoh, dan Cara Mencegahnya](https://www.waldikairawan.com/2024/06/os-command-injection-pengertian-contoh.html)
-- [CORS: Pengertian, Cara Kerja, Manfaat CORS](https://www.waldikairawan.com/2024/05/apa-itu-cors-pengertian-cara-kerja-manfaat-cors.html)
 <!-- BLOG-POST-LIST:END -->
 
