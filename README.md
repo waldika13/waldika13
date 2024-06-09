@@ -18,10 +18,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Command Gedit di Linux 2024: Pengertian dan Contoh Penggunaannya](https://www.waldikairawan.com/2024/06/command-gedit-di-linux-2024-pengertian.html)
 - [Cara Install Microsoft Teams di Kali Linux](https://www.waldikairawan.com/2024/06/cara-install-microsoft-teams-di-kali-linux.html)
 - [Race Condition: Pengertian, dan Cara Mencegahnya](https://www.waldikairawan.com/2024/06/race-condition-pengertian-dan-cara.html)
 - [41 Subdomain Provinsi Bandar Lampung Kota di Retas Hacker Pakistan](https://www.waldikairawan.com/2024/06/41-subdomain-provinsi-bandar-lampung-di-hack.html)
 - [Acccount Takeover: Pengertian, Dampak, dan Cara Mencegahnya](https://www.waldikairawan.com/2024/06/acccount-takeover-pengertian-dampak-dan.html)
-- [OAuth 2.0: Pengertian, Sejarah, Cara Kerja, dan Manfaatnya](https://www.waldikairawan.com/2024/06/oauth-20-pengertian-sejarah-cara-kerja.html)
 <!-- BLOG-POST-LIST:END -->
 
