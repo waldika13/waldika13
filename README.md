@@ -18,10 +18,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [XPath Injection: Pengertian, Contoh, dan Cara Mencegahnya](https://www.waldikairawan.com/2024/06/xpath-injection-pengertian-contoh-dan.html)
 - [Quishing &lpar;QR code Phising&rpar;: Pengertian, Contoh, Cara Mendeteksi, dan Cara Mencegahnya](https://www.waldikairawan.com/2024/06/quishing-qr-code-phising-pengertian.html)
 - [Cahce Poisoning: Pengertian dan Contohnya](https://www.waldikairawan.com/2024/06/cahce-poisoning-pengertian-dan-contohnya.html)
 - [SEO Poisoning: Pengertian, Cara Kerja, dan Cara Mendeteksinya](https://www.waldikairawan.com/2024/06/seo-poisoning-pengertian-cara-kerja-dan.html)
 - [SELinux: Pengertian, Cara Kerja, dan Cara Mengkonfigurasinya](https://www.waldikairawan.com/2024/06/selinux-pengertian-cara-kerja-dan-cara.html)
-- [Command Gedit di Linux 2024: Pengertian dan Contoh Penggunaannya](https://www.waldikairawan.com/2024/06/command-gedit-di-linux-2024-pengertian.html)
 <!-- BLOG-POST-LIST:END -->
 
