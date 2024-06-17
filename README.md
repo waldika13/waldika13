@@ -18,10 +18,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Buffer Overflow: Pengertian, Contoh Serangan, dan Cara Mencegahnya](https://www.waldikairawan.com/2024/06/buffer-overflow-pengertian-contoh.html)
 - [HTTPS: Pengertian, Cara Kerja, dan Mengapa HTTPS Penting](https://www.waldikairawan.com/2024/06/https-pengertian-cara-kerja-dan-mengapa.html)
 - [SSL: Pengertian, Cara Kerja, dan Jenis Sertifikat SSL](https://www.waldikairawan.com/2024/06/ssl-pengertian-cara-kerja-dan-jenis.html)
 - [XPath Injection: Pengertian, Contoh, dan Cara Mencegahnya](https://www.waldikairawan.com/2024/06/xpath-injection-pengertian-contoh-dan.html)
 - [Quishing &lpar;QR code Phising&rpar;: Pengertian, Contoh, Cara Mendeteksi, dan Cara Mencegahnya](https://www.waldikairawan.com/2024/06/quishing-qr-code-phising-pengertian.html)
-- [Cahce Poisoning: Pengertian dan Contohnya](https://www.waldikairawan.com/2024/06/cahce-poisoning-pengertian-dan-contohnya.html)
 <!-- BLOG-POST-LIST:END -->
 
