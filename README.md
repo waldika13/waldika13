@@ -18,10 +18,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CRLF Injection: Pengertian, Dampak Serangan, dan Cara Mencegahnya](https://www.waldikairawan.com/2024/06/crlf-injection-pengertian-dampak.html)
 - [Enkripsi vs Hashing vs Salting: Pengertian dan Perbedaannya](https://www.waldikairawan.com/2024/06/enkripsi-vs-hashing-vs-salting.html)
 - [Buffer Overflow: Pengertian, Contoh Serangan, dan Cara Mencegahnya](https://www.waldikairawan.com/2024/06/buffer-overflow-pengertian-contoh.html)
 - [HTTPS: Pengertian, Cara Kerja, dan Mengapa HTTPS Penting](https://www.waldikairawan.com/2024/06/https-pengertian-cara-kerja-dan-mengapa.html)
 - [SSL: Pengertian, Cara Kerja, dan Jenis Sertifikat SSL](https://www.waldikairawan.com/2024/06/ssl-pengertian-cara-kerja-dan-jenis.html)
-- [XPath Injection: Pengertian, Contoh, dan Cara Mencegahnya](https://www.waldikairawan.com/2024/06/xpath-injection-pengertian-contoh-dan.html)
 <!-- BLOG-POST-LIST:END -->
 
