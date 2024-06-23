@@ -18,10 +18,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Log Tampering: Pengertian, Jenis, dan Cara Mencegahnya](https://www.waldikairawan.com/2024/06/log-tampering-pengertian-jenis-dan-cara.html)
 - [Cookie Tampering: Pengertian, Teknik, dan Cara Mencegahnya](https://www.waldikairawan.com/2024/06/cookie-tampering-pengertian-teknik-dan.html)
 - [CRLF Injection: Pengertian, Dampak Serangan, dan Cara Mencegahnya](https://www.waldikairawan.com/2024/06/crlf-injection-pengertian-dampak.html)
 - [Enkripsi vs Hashing vs Salting: Pengertian dan Perbedaannya](https://www.waldikairawan.com/2024/06/enkripsi-vs-hashing-vs-salting.html)
 - [Buffer Overflow: Pengertian, Contoh Serangan, dan Cara Mencegahnya](https://www.waldikairawan.com/2024/06/buffer-overflow-pengertian-contoh.html)
-- [HTTPS: Pengertian, Cara Kerja, dan Mengapa HTTPS Penting](https://www.waldikairawan.com/2024/06/https-pengertian-cara-kerja-dan-mengapa.html)
 <!-- BLOG-POST-LIST:END -->
 
